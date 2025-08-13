@@ -1,0 +1,13 @@
+{
+	"description": "Data preprocessing, manipulation and augmentation",
+	"dependencies": {
+		"numir": "~>2.0.6",
+		"mir": "~>3.2.3"
+	},
+	"authors": [
+		"Marc"
+	],
+	"copyright": "Copyright © 2025, Marc",
+	"license": "MIT",
+	"name": "datamanip"
+}

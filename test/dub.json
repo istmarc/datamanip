@@ -1,0 +1,14 @@
+{
+	"description": "Test for datamanip",
+	"dependencies": {
+		"datamanip": {
+			"path": "../"
+		}
+	},
+	"authors": [
+		"Marc"
+	],
+	"copyright": "Copyright © 2025, Marc",
+	"license": "MIT",
+	"name": "test"
+}
